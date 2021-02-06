@@ -28,3 +28,10 @@ docker-compose up --build
 
 ## jupyter notebook説明
 * Feature_Selection.ipynb : 変数選択のnotebook
+* Boruta_Feature_Selection.ipynb : Borutaで変数選択のnotebook
+
+## 動作環境
+マシンスペック（Mac)
+- MacBook Air (Retina, 13-inch, 2018)
+- 1.6 GHz デュアルコアIntel Core i5
+- 8 GB 2133 MHz LPDDR3
