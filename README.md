@@ -15,7 +15,7 @@
 
 * Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/Feature_Selection）
 ```
-cd Desktop/Anomaly_Detection
+cd Desktop/Feature_Selection
 ```
 
 * Dockerによる環境構築（フォルダをマウント：Desktop/Feature_Selection）
