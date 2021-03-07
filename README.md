@@ -1,4 +1,4 @@
-# Feature_Selection
+# Feature-Selection
 * 変数選択全般のプログラム
 
 ## リポジトリ構成
@@ -13,9 +13,9 @@
 
 ## 環境構築
 
-* Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/Feature_Selection）
+* Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/Feature-Selection）
 ```
-cd Desktop/Feature_Selection
+cd Desktop/Feature-Selection
 ```
 
 * Dockerによる環境構築（フォルダをマウント：Desktop/Feature_Selection）
