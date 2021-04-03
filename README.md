@@ -20,7 +20,7 @@ cd Desktop/Feature-Selection
 
 * Dockerによる環境構築（フォルダをマウント：Desktop/Feature_Selection）
 ```
-docker-compose up
+docker-compose up --build
 ```
 
 * ブラウザーを立ち上げてlocalhost:8888へアクセス
