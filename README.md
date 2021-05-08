@@ -27,8 +27,8 @@ docker-compose up --build
 * ローカルフォルダがマウントされている
 
 ## jupyter notebook説明
-* Feature_Selection.ipynb : 変数選択のnotebook
-* Boruta_Feature_Selection.ipynb : Borutaで変数選択のnotebook
+* [Feature_Selection.ipynb](https://github.com/ykato27/Feature-Selection/blob/main/notebook/Feature_Selection.ipynb) : 変数選択のnotebook
+* [Boruta_Feature_Selection.ipynb](https://github.com/ykato27/Feature-Selection/blob/main/notebook/Boruta_Feature_Selection.ipynb) : Borutaで変数選択のnotebook
 
 ## 動作環境
 マシンスペック（Mac)
