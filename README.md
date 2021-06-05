@@ -1,5 +1,5 @@
-# Feature-Selection
-* 変数選択全般のプログラム
+# Feature-Engineering
+* 特徴量エンジニアリング全般のプログラム
 
 ## リポジトリ構成
 ```
